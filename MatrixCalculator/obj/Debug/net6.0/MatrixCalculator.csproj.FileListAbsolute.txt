@@ -1,0 +1,12 @@
+c:\Users\javahmed\Documents\Projects\Training\OOP Matrix\C#\MatrixCalculator\bin\Debug\net6.0\MatrixCalculator.deps.json
+c:\Users\javahmed\Documents\Projects\Training\OOP Matrix\C#\MatrixCalculator\bin\Debug\net6.0\MatrixCalculator.dll
+c:\Users\javahmed\Documents\Projects\Training\OOP Matrix\C#\MatrixCalculator\bin\Debug\net6.0\MatrixCalculator.pdb
+c:\Users\javahmed\Documents\Projects\Training\OOP Matrix\C#\MatrixCalculator\obj\Debug\net6.0\MatrixCalculator.csproj.AssemblyReference.cache
+c:\Users\javahmed\Documents\Projects\Training\OOP Matrix\C#\MatrixCalculator\obj\Debug\net6.0\MatrixCalculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\javahmed\Documents\Projects\Training\OOP Matrix\C#\MatrixCalculator\obj\Debug\net6.0\MatrixCalculator.AssemblyInfoInputs.cache
+c:\Users\javahmed\Documents\Projects\Training\OOP Matrix\C#\MatrixCalculator\obj\Debug\net6.0\MatrixCalculator.AssemblyInfo.cs
+c:\Users\javahmed\Documents\Projects\Training\OOP Matrix\C#\MatrixCalculator\obj\Debug\net6.0\MatrixCalculator.csproj.CoreCompileInputs.cache
+c:\Users\javahmed\Documents\Projects\Training\OOP Matrix\C#\MatrixCalculator\obj\Debug\net6.0\MatrixCalculator.dll
+c:\Users\javahmed\Documents\Projects\Training\OOP Matrix\C#\MatrixCalculator\obj\Debug\net6.0\refint\MatrixCalculator.dll
+c:\Users\javahmed\Documents\Projects\Training\OOP Matrix\C#\MatrixCalculator\obj\Debug\net6.0\MatrixCalculator.pdb
+c:\Users\javahmed\Documents\Projects\Training\OOP Matrix\C#\MatrixCalculator\obj\Debug\net6.0\ref\MatrixCalculator.dll
